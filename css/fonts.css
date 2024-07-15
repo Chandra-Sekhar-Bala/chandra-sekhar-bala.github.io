@@ -104,3 +104,16 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'outfit-bold';
+    src: url('micons/fonts/outfit_bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'outfit-medium';
+    src: url('micons/fonts/outfitmedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
