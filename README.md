@@ -4,7 +4,8 @@
 ## Computer View  👇🏽
 <p align="center">
 
-![image](https://github.com/Chandra-Sekhar-Bala/Portfolio/assets/57448981/2843392b-da9d-4fca-8f64-7cc632a639aa)
+![image](https://github.com/user-attachments/assets/d1049598-ae3c-4b79-8b6c-9bc5c096ba26)
+
 
 ## Mobile View 👇🏽
 
